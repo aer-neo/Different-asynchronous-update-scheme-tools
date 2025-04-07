@@ -9,3 +9,6 @@ This repository contains a Python reconstruction of the algorithm used in the ar
 
 **Code Author**: Alonso Espinoza  
 <sup>1</sup> Faculty of Engineering and Sciences, University Adolfo Ibáñez, Santiago, Chile.
+
+**Acknowledgments:**  
+Special thanks to PhD. Marcos Montalva for verifying the code.
