@@ -1,3 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1u_GkNyeoPQH97PD8JvYyyJ_y51D5dN5N?usp=sharing)
+
 # Different-asynchronous-update-scheme-tools
 
 This repository contains a Python reconstruction of the algorithm used in the article:
