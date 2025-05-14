@@ -14,5 +14,3 @@ This repository contains a Python reconstruction of the algorithm used in the ar
 
 **Acknowledgments:**  
 Special thanks to PhD. Marcos Montalva for verifying the code.
-
-Different-asynchronous-update-scheme-tools
